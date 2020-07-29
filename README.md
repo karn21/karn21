@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
--   :mortar_board: CSE Undergraduate student @ NIT Jaipur (MNIT).
--   :ringed_planet: Looking forward to opportunities and challenges.
--   :speech_balloon: Ask me about full stack, web development!
--   :mailbox: You can reach me with the links below
+-   CSE Undergraduate student @ NIT Jaipur (MNIT).
+-   Looking forward to opportunities and challenges.
+-   Ask me about full stack, web development!
+-   You can reach me with the links below
 
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Karan21)
