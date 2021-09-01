@@ -12,7 +12,6 @@
 [![Twitter](https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Karan21)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karn212000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karn21/)
-[![karan.codes](https://img.shields.io/badge/-KARAN.CODES-black?style=for-the-badge&logo=django&logoColor=white)](http://karan.codes/)
 
 ##### Technologies I have used
 
