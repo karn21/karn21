@@ -13,6 +13,10 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karn212000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karn21/)
 
+
+![My activity graph](https://activity-graph.herokuapp.com/graph?username=karn21&theme=github&custom_title=My%20activity%20graph)
+
+
 ##### Technologies I have used
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
